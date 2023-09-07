@@ -21,3 +21,7 @@ Now you can run the Nootebok and check your employees database in PostgreSQL.
 ### Data model 
 
 ![Data Model](https://github.com/MatheusSanteago/Data-Model/blob/master/img/Employees.png)
+
+### Data flow 
+
+![Data Flow](https://github.com/MatheusSanteago/Data-Model/blob/master/img/datasource.png)
